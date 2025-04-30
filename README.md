@@ -2,6 +2,8 @@
 
 An interactive Power BI dashboard that analyzes crime data across Indian states and union territories from 2020 to 2022. This project aims to uncover patterns in crime types, regional trends, and provide actionable insights for public safety and policy planning.
 
+[Click here to view the published Power BI Report]:https://app.powerbi.com/view?r=eyJrIjoiNDQ0ZmQ2OGYtMjIxMi00NDc0LTlmNmQtZGQzYWY0MzUwYmJkIiwidCI6ImJkMzBiNTI4LTAyOGQtNGMxNi05N2NiLWZkYjk5YjA5MDU3NCJ9
+
 📊 Project Highlights
 
 - Analyzed **100,000+ crime incidents** reported across **30+ states/UTs** in India.
